@@ -1,5 +1,5 @@
 # Java Advanced Calculator
-> A calculator created as my project for the Java introductory course in the British University in Dubai.
+> A calculator created in 2020 as my project for the Java introductory course in the British University in Dubai.
 
 > Java was used in this project.
 
