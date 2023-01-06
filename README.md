@@ -14,5 +14,3 @@
 > An issue with this project is that it does not contain any comments however the code is readable enought to be utilized.
 
 > I suggest running the code and exploaring its capabilities because even though it is such a small project it still has many impressive capabilities like backtracking and the ability to process matrices all in the terminal.
-
-> Enjoy :)
